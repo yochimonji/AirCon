@@ -1,0 +1,6 @@
+{
+    "bt_addr": "YOUR-Switchbot-BLE-MAC",
+    "bt_interface": "hci0",
+    "timeout_secs": 5,
+    "command": "on"
+}
